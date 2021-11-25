@@ -1,0 +1,28 @@
+body{
+  background: light-yellow;
+  
+}
+hr{
+
+  border: 0.6rem solid green;
+  border-radius: 5px;
+}
+h3{
+  
+  color:green;
+}
+p{
+   
+  text-align: justify;
+  letter-spacing: 1px;
+}
+td{
+  
+   text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 1px;
+}
+li{
+  text-align:justify;
+  letter-spacing: 1px;
+}
